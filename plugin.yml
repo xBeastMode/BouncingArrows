@@ -1,0 +1,7 @@
+---
+name: BouncingArrows
+version: 1.0.0
+main: xBeastMode\BouncingArrows\Main
+api: 5.21.1
+src-namespace-prefix: xBeastMode\BouncingArrows
+...
