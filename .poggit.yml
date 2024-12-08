@@ -5,4 +5,5 @@ branches:
 projects:
   BouncingArrows:
     path: ""
+    icon: "icon.png"
 ...
